@@ -71,7 +71,7 @@ dataset/
 * Evaluate unbiased UniQ with top-k links by setting `MODEL.DETR.MATCHER_TOPK 3`
 
 ## Visualization
-![vis_00](https://github.com/user-attachments/assets/27c79a90-a40a-4941-b93b-ee8943cbbd3d)
+![vis_00](https://github.com/user-attachments/assets/bc6f19cf-c18c-4cbc-b6a8-1947ea8f29c7)
 
 
 ## Citation
